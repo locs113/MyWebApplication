@@ -1,0 +1,9 @@
+@function bravo-calc-rem($size) {
+  @return ($size / $bravo-root-font-size) * 1rem;
+}
+
+@function bravo-calc-em($size) {
+  @return ($size / $bravo-root-font-size) * 1em;
+}
+
+$bravo-root-font-size: 16px;

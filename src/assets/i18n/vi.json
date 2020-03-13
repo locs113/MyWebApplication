@@ -1,0 +1,13 @@
+{
+  "GENERAL": {
+    "WELLCOME": "Chào mừng tới {{title}}!",
+    "ONLINE": "Trực tuyến",
+    "OFFLINE": "Ngoại tuyến"
+  },
+  "NOTIFICATION": {
+    "SUCCESS": "Thành công!",
+    "WARNING": "Cảnh báo!",
+    "ERROR": "Lỗi!",
+    "INFO": "Thông tin!"
+  }
+}

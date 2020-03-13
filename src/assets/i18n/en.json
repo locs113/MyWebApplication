@@ -1,0 +1,13 @@
+{
+  "GENERAL": {
+    "WELLCOME": "Welcom to {{title}}!",
+    "ONLINE": "Online",
+    "OFFLINE": "Offline"
+  },
+  "NOTIFICATION": {
+    "SUCCESS": "Success!",
+    "WARNING": "Warning!",
+    "ERROR": "Error!",
+    "INFO": "Information!"
+  }
+}
